@@ -3,8 +3,5 @@
   "deno.lint": true,
   "deno.unstable": false,
   "deno.config": "./deno.jsonc",
-  "editor.defaultFormatter": "denoland.vscode-deno",
-  "[ignore]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
-  }
+  "editor.defaultFormatter": "denoland.vscode-deno"
 }
